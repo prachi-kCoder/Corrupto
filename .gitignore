@@ -1,0 +1,31 @@
+# Ignore the virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Streamlit-specific
+.streamlit/
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other temporary or system files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# IDE specific
+.vscode/
+.idea/
